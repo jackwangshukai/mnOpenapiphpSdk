@@ -1,0 +1,26 @@
+{
+    "name": "mn/openapi",
+    "description": "openapiphpSdk",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Mn\\Openapi\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "汪书凯",
+            "email": "wangshukai@mengniu.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "hanson/foundation-sdk": "dev-master",
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Mn\\Openapi\\test\\": "test"
+        }
+    }
+}
