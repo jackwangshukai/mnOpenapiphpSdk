@@ -1,1 +1,2 @@
 # mnOpenapiphpSdk
+使用方式详见test目录
