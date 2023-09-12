@@ -15,7 +15,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "hanson/foundation-sdk": "dev-master",
+        "hanson/foundation-sdk": "^5.0",
         "phpunit/phpunit": "^9.5"
     },
     "autoload-dev": {
